@@ -13,4 +13,4 @@ branch_deployments:
     test : taxi_test
     my_new_feature : taxi_dev
 
-foo: barx
+foo: barxad
