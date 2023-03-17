@@ -12,5 +12,6 @@ branch_deployments:
     main : taxi_dev
     test : taxi_test
     my_new_feature : taxi_dev
+    add_a_new_model : taxi_dev
 
 foo: barxad
